@@ -1,0 +1,19 @@
+{
+	"caret_style": "blink",
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Bodhitree",
+		"Ngixn",
+		"bodhitree",
+		"javascript"
+	],
+	"highlight_line": true,
+	"line_padding_bottom": 1,
+  	"line_padding_top": 1,
+  	"bold_folder_labels": true
+}
